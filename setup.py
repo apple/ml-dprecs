@@ -10,7 +10,7 @@ setup(
         "pyspark==2.4.2",
         "matplotlib==3.3.4",
         "pandas==1.2.1",
-        "numpy==1.20",
+        "numpy==1.22",
         "scikit-learn==1.0.2",
         "tensorflow==2.11.1",
         "deepctr==0.9.3",
@@ -20,5 +20,5 @@ setup(
             "parameterized>=0.8.1",
         ],
         },
-    python_version="3.7.9",
+    python_version="3.8",
 )
