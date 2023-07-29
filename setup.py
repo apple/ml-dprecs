@@ -12,7 +12,7 @@ setup(
         "pandas==1.2.1",
         "numpy==1.20",
         "scikit-learn==1.0.2",
-        "tensorflow==2.11.0",
+        "tensorflow==2.11.1",
         "deepctr==0.9.3",
     ],
     extras_require={
