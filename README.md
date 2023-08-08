@@ -1,6 +1,6 @@
 # Differentially-private, precisely-measureable, personalized recommendations (DPRECS)
 
-This software project accompanies the research paper, [Randomized algorithms for precise measurement of differentially-private, personalized recommendations](https://arxiv.org).
+This software project accompanies the research paper, [Randomized algorithms for precise measurement of differentially-private, personalized recommendations](https://arxiv.org/abs/2308.03735).
 
 In this work, we propose an algorithm for personalized recommendations that respects the key requirements of user privacy and precise measurement. 
 We consider personalized advertising as an example application, and conduct experiments on real digital ads auctions data to quantify how the 
@@ -13,7 +13,7 @@ The notebooks TaobaoAnalysis.ipynb can be used to re-run the analysis and plot t
 
 ## Getting Started 
 ### Environment
-This code is designed to work with Python 3.7.9.
+This code is designed to work with Python 3.8.
 Conda is recommended.
 Use pip to install dependencies:
 ```
@@ -82,7 +82,7 @@ If you find this code useful in your research, please cite:
 @inproceedings{dprecs,
   title={Randomized algorithms for precise measurement of differentially-private, personalized recommendations},
   author={Laro, Allegra and Chen, Yanqing and He, Hao and Aghazadeh, Babak },
-  booktitle={TODO},
+  booktitle={TBD},
   year={2023}
 }
 ```
